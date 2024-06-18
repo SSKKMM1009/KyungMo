@@ -26,4 +26,4 @@
 # 📲 Contact
 + PH : 010 - 6269 - 6426
 + Email : goodlounge@naver.com
-+ kakao : <a href="https://open.kakao.com/o/sLGeX3wg"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
++ kakao : <a href="https://open.kakao.com/o/sLGeX3wg"><img src="https://img.shields.io/badge/kakao-FFCD00?style=flat-square&logo=kakao&logoColor=white"/></a>
