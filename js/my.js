@@ -101,6 +101,9 @@ $(window).scroll(function(){
         $('.gauge8').css({
             width:'80%'
         })
+        $('.gauge9').css({
+            width:'80%'
+        })
     }
 })
 
